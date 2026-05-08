@@ -16,7 +16,7 @@ st.write("👉🏿2023-2024 : Bachelier Scientifique en Serie S2, Lycée d'Excel
 
 
 st.header("Compétences Techniques")
-st.write("👉🏿Capable d'analyser et de suivre les récoltes avec Biomathématiques, les nouvelles technologies, la télédétection, la cartographie")
+st.write("👉🏿Capable d'analyser et de suivre les récoltes avec la Biostatistique, les nouvelles technologies, la télédétection, la cartographie")
 st.write("👉🏿Capable d'étudier un sol et à le rémédier avec la pédologie agricole")
 st.write("👉🏿Connais le fonctionnement des plantes et des animaux avec la physiologie Animale et végétale, la botanique, la zoologie, la reproduction, nutrition")
 st.write("👉🏿Capable d'améliorer les cultures avec les Nouvelles Technologies : biotechnologie, bio-informatique, l'entomologie, l'irrigation, la fertilisation")
