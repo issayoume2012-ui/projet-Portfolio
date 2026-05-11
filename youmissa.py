@@ -35,7 +35,7 @@ st.write("👉🏿Ponctualité")
 st.write("👉🏿Autonomie")
 st.header("Compétence Numérique")
 st.write("👉🏿Capable d'utiliser et d'exploiter Word, Excel,PowerPoint, Canva avec un Niveau Approfondie")
-st.write("👉🏿Capable d'utiliser et d'exploiter Python, AlgoBox, Jupiterlab avec niveau débutant")
+st.write("👉🏿Capable d'utiliser et d'exploiter Python, AlgoBox, Jupiterlab,Jupiter Notebook avec niveau débutant")
 
 
 
