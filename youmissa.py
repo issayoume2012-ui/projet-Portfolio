@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Issa Youme")
 st.header("Technicien Supérieur en Agronomie || Spécialisé en Production Animale et Végétale")
-st.write(" Compétent en traitement de sol avec la pédologie, en développement de la productivité des plantes et animales, en communication rural, en gestion administrative et économique des entreprises agricoles")
+st.write("Professionnel compétent en traitement et gestion des sols avec une expertise en pédologie, en amélioration de la productivité végétale et animale, ainsi qu’en communication rurale. Doté de solides compétences en gestion administrative et économique des entreprises agricoles, avec une capacité à contribuer au développement durable et à l’optimisation des systèmes de production agricole.")
 with st.sidebar:
     st.image("issa1.jpg")
     st.write("Leona, Saint-Louis")
